@@ -18,3 +18,83 @@ Excel Beginner to advance for data analysis video practice Material
 - 04:16:00 - Date formulas
 - 04:34:25 - Pivot table
 - 05:03:10 - Dashboard project in excel
+
+# 📊 Excel_OneShot 2
+
+**Excel for Data Analysis | Practice Material**
+
+This folder contains the practice material and resources for learning **Microsoft Excel from beginner to advanced level**, with a focus on **Data Analysis, productivity, automation, and AI-assisted Excel**.
+
+## 🎥 Course Video
+
+👉 **[Watch Full Tutorial](https://youtu.be/wGBKI6B945w)**
+
+[![Watch the video](https://img.youtube.com/vi/wGBKI6B945w/hqdefault.jpg)](https://youtu.be/wGBKI6B945w)
+
+## ⏱️ Video Timestamps
+
+* **00:00:00** - Lesson 1: Excel Introduction
+* **00:43:41** - Lesson 2: Data Entry in Excel
+* **01:13:10** - Lesson 3: Essential Formulas
+* **01:30:35** - Lesson 4: IF Formulas in Excel
+* **01:51:25** - Lesson 5: Nested IF and IFS Formula
+* **02:13:29** - Lesson 6: Conditional Formatting
+* **02:38:40** - Lesson 7: Sort Data in Excel
+* **02:52:42** - Lesson 8: Filter Data in Excel
+* **03:14:26** - Lesson 9: Sort and Filter Formula in Excel
+* **03:36:12** - Lesson 10: Data Validation
+* **03:49:44** - Lesson 11: Remove Duplicates, Text to Columns & Flash Fill
+* **04:03:57** - Lesson 12: Paste Special & Go To Special
+* **04:41:38** - Lesson 13: 31 Excel Formulas
+* **06:20:46** - Lesson 14: Pivot Table Masterclass
+* **09:46:44** - Lesson 15: Power Pivot Table
+* **11:46:38** - Lesson 16: Office 365 & Latest Formulas
+* **12:58:26** - Lesson 17: AI Use in Excel
+* **14:07:39** - Lesson 18: Claude AI Extension in Excel
+* **14:40:01** - Lesson 19: Freelancing
+
+## 📚 Topics Covered
+
+* Excel Fundamentals
+* Data Entry
+* Excel Formulas & Functions
+* IF, Nested IF & IFS
+* Conditional Formatting
+* Sorting & Filtering
+* Data Validation
+* Data Cleaning
+* Remove Duplicates
+* Text to Columns
+* Flash Fill
+* Paste Special
+* Go To Special
+* Advanced Excel Formulas
+* Pivot Tables
+* Power Pivot
+* Office 365 & Modern Excel
+* AI in Excel
+* Claude AI Extension
+* Excel Freelancing
+
+## 🎯 Learning Outcomes
+
+✔️ Improve productivity and work faster in Excel
+✔️ Handle and analyze large datasets
+✔️ Build professional reports
+✔️ Perform data cleaning and preparation
+✔️ Use advanced Excel formulas
+✔️ Create Pivot Tables and Power Pivot reports
+✔️ Use AI tools with Excel
+✔️ Learn practical automation techniques
+✔️ Develop skills for Data Analysis roles
+✔️ Prepare for Excel-based interviews and office jobs
+
+## 📁 Practice Material
+
+The files in this folder are provided for **hands-on practice** while following the course.
+
+> **Learn → Practice → Analyze → Build → Improve 🚀**
+
+## 🔗 Course Resource
+
+👉 **[Watch the Complete Excel Course](https://youtu.be/wGBKI6B945w)**
