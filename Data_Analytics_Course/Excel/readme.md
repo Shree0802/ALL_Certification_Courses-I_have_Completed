@@ -24,3 +24,21 @@ I am following this YouTube playlist for learning and practicing Excel:
 
 To develop strong practical Excel skills for **Data Analytics and Data Analyst roles** through hands-on practice.
 
+# 📊 Excel OneShot
+# 📊 Excel
+
+Excel learning and practice material for **Data Analysis**.
+
+## 📂 Contents
+
+### 📚 [One_Shots](./One_Shots/)
+
+Excel beginner-to-advanced one-shot course with practice material.
+
+**Topics:** Excel Basics • Formulas • Data Cleaning • Sorting & Filtering • Pivot Tables • Power Pivot • AI in Excel • Advanced Excel
+
+👉 [Open One_Shots Folder](./One_Shots/)
+
+---
+
+🎯 **Goal:** Build practical Excel skills for Data Analysis and Data Analyst roles.
