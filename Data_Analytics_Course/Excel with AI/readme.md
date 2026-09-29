@@ -6,8 +6,6 @@ Excel Beginner to Advanced for Data Analysis + AI
 
 [![Watch the Playlist](https://i.ytimg.com/vi/Mx-TivFrrsI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA918PvQmrBSjpnXIYi3vwdd9AxqQ)](https://www.youtube.com/playlist?list=PLXwTOG3-tRwgqp0sAikZPHheBYuYHwnab)
 
-<br><br>
-
 ## 📚 What I Will Learn
 
 * 📌 Excel Fundamentals
