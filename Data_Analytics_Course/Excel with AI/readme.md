@@ -1,3 +1,38 @@
+# 📊 Complete Excel with AI
+
+**Excel Beginner to Advanced | Data Analysis | AI-Powered Excel**
+
+This folder contains my **Excel practice files and learning material** based on the Complete Excel with AI playlist.
+
+## 🎥 Learning Playlist
+
+👉 **[Watch Complete Excel with AI Playlist](https://www.youtube.com/playlist?list=PLXwTOG3-tRwgqp0sAikZPHheBYuYHwnab)**
+
+## 📚 What I Will Learn
+
+* 📌 Excel Fundamentals
+* 📌 Data Entry & Formatting
+* 📌 Formulas & Functions
+* 📌 Logical & Lookup Functions
+* 📌 Data Cleaning & Preparation
+* 📌 Sorting & Filtering
+* 📌 Conditional Formatting
+* 📌 Data Validation
+* 📌 Pivot Tables
+* 📌 Charts & Data Visualization
+* 📌 Advanced Excel
+* 📌 Data Analysis in Excel
+* 🤖 AI Tools & AI-Powered Excel
+* 🤖 Using AI to Analyze Data
+* 🤖 AI-Assisted Excel Workflows
+* ⚡ Excel Productivity & Automation
+
+## 📁 Practice Material
+
+This folder contains **hands-on Excel files and exercises** completed while following the playlist.
+
+> **Learn Excel → Practice → Analyze Data → Use AI → Build Projects 🚀**
+
 # 📊 Excel Practice
 
 This folder contains my **Excel practice files, exercises, and hands-on work** for developing practical Data Analytics skills.
