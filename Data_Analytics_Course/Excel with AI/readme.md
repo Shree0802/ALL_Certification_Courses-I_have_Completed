@@ -4,7 +4,7 @@ Excel Beginner to Advanced for Data Analysis + AI
 
 👉 Watch Complete Excel with AI Playlist : <br><br>
 
-[![Watch the Playlist](./excel-ai-thumbnail.jpg)](https://www.youtube.com/playlist?list=PLXwTOG3-tRwgqp0sAikZPHheBYuYHwnab)
+[![Watch the Playlist](./excel-ai-thumbnail.jpg)](https://i.ytimg.com/vi/Mx-TivFrrsI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA918PvQmrBSjpnXIYi3vwdd9AxqQ)
 
 <br><br>
 
