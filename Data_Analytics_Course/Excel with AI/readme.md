@@ -1,12 +1,12 @@
 # 📊 Complete Excel with AI
 
-**Excel Beginner to Advanced | Data Analysis | AI-Powered Excel**
+Excel Beginner to Advanced for Data Analysis + AI
 
-This folder contains my **Excel practice files and learning material** based on the Complete Excel with AI playlist.
+👉 Watch Complete Excel with AI Playlist : <br><br>
 
-## 🎥 Learning Playlist
+[![Watch the Playlist](./excel-ai-thumbnail.jpg)](https://www.youtube.com/playlist?list=PLXwTOG3-tRwgqp0sAikZPHheBYuYHwnab)
 
-👉 **[Watch Complete Excel with AI Playlist](https://www.youtube.com/playlist?list=PLXwTOG3-tRwgqp0sAikZPHheBYuYHwnab)**
+<br><br>
 
 ## 📚 What I Will Learn
 
