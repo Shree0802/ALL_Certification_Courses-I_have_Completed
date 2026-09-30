@@ -1,0 +1,1 @@
+print(salary_stats)
