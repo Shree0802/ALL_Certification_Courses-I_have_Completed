@@ -98,3 +98,61 @@ The files in this folder are provided for **hands-on practice** while following 
 ## 🔗 Course Resource
 
 👉 **[Watch the Complete Excel Course](https://youtu.be/wGBKI6B945w)**
+
+### 📌 3. Excel One-Shot
+
+[![Watch Excel One-Shot](https://img.youtube.com/vi/Kjz_DDO4Fzs/hqdefault.jpg)](https://youtu.be/Kjz_DDO4Fzs)
+
+👉 [Watch Video](https://youtu.be/Kjz_DDO4Fzs)
+
+**Focus:** Excel concepts, practical learning and data analysis.
+
+---
+
+### 📌 4. Excel One-Shot
+
+[![Watch Excel One-Shot](https://img.youtube.com/vi/4hv6R3aUSjs/hqdefault.jpg)](https://youtu.be/4hv6R3aUSjs)
+
+👉 [Watch Video](https://youtu.be/4hv6R3aUSjs)
+
+**Focus:** Excel concepts, formulas and practical data handling.
+
+---
+
+### 📌 5. Excel One-Shot
+
+[![Watch Excel One-Shot](https://img.youtube.com/vi/roNei4cZ0WY/hqdefault.jpg)](https://youtu.be/roNei4cZ0WY)
+
+👉 [Watch Video](https://youtu.be/roNei4cZ0WY)
+
+**Focus:** Excel fundamentals, functions and practical learning.
+
+---
+
+### 📌 6. Excel One-Shot
+
+[![Watch Excel One-Shot](https://img.youtube.com/vi/5Z2PTHdHUXY/hqdefault.jpg)](https://youtu.be/5Z2PTHdHUXY)
+
+👉 [Watch Video](https://youtu.be/5Z2PTHdHUXY)
+
+**Focus:** Excel formulas, data analysis and practical techniques.
+
+---
+
+### 📌 7. Excel One-Shot
+
+[![Watch Excel One-Shot](https://img.youtube.com/vi/2SUSDbeE9Zw/hqdefault.jpg)](https://youtu.be/2SUSDbeE9Zw)
+
+👉 [Watch Video](https://youtu.be/2SUSDbeE9Zw)
+
+**Focus:** Excel skills, data handling and practical learning.
+
+---
+
+### 📌 8. Excel One-Shot
+
+[![Watch Excel One-Shot](https://img.youtube.com/vi/7lU-pz_wBXY/hqdefault.jpg)](https://youtu.be/7lU-pz_wBXY)
+
+👉 [Watch Video](https://youtu.be/7lU-pz_wBXY)
+
+**Focus:** Excel, data analysis and AI-powered productivity.
