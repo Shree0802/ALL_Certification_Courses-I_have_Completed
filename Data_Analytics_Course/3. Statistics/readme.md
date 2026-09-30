@@ -81,6 +81,16 @@ This folder contains my **Statistics one-shot learning resources and practice ma
 
 ---
 
+### 📌 5. Statistics for Data Science - Full Course
+
+[![Watch Statistics One-Shot](https://img.youtube.com/vi/bLZ-LSsQMCc/hqdefault.jpg)](https://youtu.be/bLZ-LSsQMCc)
+
+👉 [Watch Video](https://youtu.be/bLZ-LSsQMCc)
+
+**Focus:** Probability, statistics fundamentals and statistical concepts for data science.
+
+---
+
 ## 📚 Key Concepts Covered
 
 - 📌 Descriptive Statistics
