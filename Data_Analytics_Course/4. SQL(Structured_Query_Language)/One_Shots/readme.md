@@ -118,13 +118,21 @@ This folder contains my **SQL One-Shot learning resources and practice material*
 
 ---
 
-### 📌 9. SQL One-Shot
+### 📌 9. Complete SQL in 1 Shot for Data Analytics
 
-[![Watch SQL One-Shot](https://img.youtube.com/vi/yP1VT0qDLmI/hqdefault.jpg)](https://youtu.be/yP1VT0qDLmI)
+[![Watch SQL One-Shot](https://img.youtube.com/vi/p1epCuYb5OQ/hqdefault.jpg)](https://youtu.be/p1epCuYb5OQ)
 
-👉 [Watch Video](https://youtu.be/yP1VT0qDLmI)
+👉 [Watch Complete SQL One-Shot](https://youtu.be/p1epCuYb5OQ)
 
-**Focus:** SQL concepts, queries and practical database learning.
+**Focus:**
+- SQL for Data Analytics
+- SQL Fundamentals
+- Data Retrieval & Filtering
+- SQL Functions
+- Aggregation
+- Joins
+- Subqueries
+- Practical Data Analysis Queries
 
 ---
 
